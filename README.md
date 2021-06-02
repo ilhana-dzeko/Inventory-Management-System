@@ -35,4 +35,5 @@ Administrator credentials:
 
 # Orders Section
 ![manageOrders](https://user-images.githubusercontent.com/75779251/120497135-73447180-c3be-11eb-8773-2967d2125e7a.png)
+![addOrder](https://user-images.githubusercontent.com/75779251/120497948-20b78500-c3bf-11eb-8c77-8e6d53c5119f.png)
 ![productOrderQty](https://user-images.githubusercontent.com/75779251/120497156-75a6cb80-c3be-11eb-9c86-02c31fc24bf4.png)
