@@ -8,5 +8,5 @@ Administrator credentials:
 ---
 
 # Login form
-![loginForm](https://user-images.githubusercontent.com/75779251/120492614-85241580-c3ba-11eb-8089-1f1ad0cff34f.png)![login](https://user-images.githubusercontent.com/75779251/120493007-dc29ea80-c3ba-11eb-9695-cf0fd9527c8a.png)
+![loginForm](https://user-images.githubusercontent.com/75779251/120492614-85241580-c3ba-11eb-8089-1f1ad0cff34f.png)
 
