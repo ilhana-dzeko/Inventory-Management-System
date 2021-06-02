@@ -16,7 +16,6 @@ Administrator credentials:
 ![passwordChange](https://user-images.githubusercontent.com/75779251/120494780-645cbf80-c3bc-11eb-95fd-76ba7509c8b8.png)
 
 # Administrating Users
-![addUser](https://user-images.githubusercontent.com/75779251/120494925-848c7e80-c3bc-11eb-9b64-81d879c7337f.png)
 ![users](https://user-images.githubusercontent.com/75779251/120494943-88200580-c3bc-11eb-91af-aca3895820ab.png)
 
 # Managing Products
