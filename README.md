@@ -1,6 +1,7 @@
 # Inventory-Management-System
 
-Administrator credentials:
+**Administrator credentials:
+
 ![loginshowpass](https://user-images.githubusercontent.com/75779251/120493048-e64be900-c3ba-11eb-8f9d-ddbfdfd735e2.png)
 
 ---
